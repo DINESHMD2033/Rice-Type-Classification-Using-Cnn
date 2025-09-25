@@ -19,13 +19,9 @@ This project uses **Convolutional Neural Networks (CNN)** with **Transfer Learni
 4. [Dataset](#-dataset)  
 5. [Features](#-features)  
 6. [Installation](#-installation)  
-7. [Usage](#-usage)  
-8. [Screenshots](#-screenshots)  
-9. [Results](#-results)  
-10. [Advantages & Limitations](#-advantages--limitations)  
-11. [Future Scope](#-future-scope)  
-12. [Contributors](#-contributors)  
-13. [License](#-license)  
+7. [Usage](#-usage)   
+8. [Advantages & Limitations](#-advantages--limitations)  
+9. [Future Scope](#-future-scope)  
 
 ---
 
@@ -48,7 +44,7 @@ This project uses **Convolutional Neural Networks (CNN)** with **Transfer Learni
 ---
 
 ## Dataset  
-- Source: [Kaggle Rice Image Dataset](https://www.kaggle.com/)  
+- Source: (https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)  
 - Classes: Arborio, Basmati, Ipsala, Jasmine, Karacadag  
 - Preprocessing:  
   - Resizing → (224 × 224)  
